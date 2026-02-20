@@ -7,6 +7,7 @@ Inclusive se compara com outras engenharias como a Areonáutica onde tudo precis
 
 
 Atividade 2. Comentar com suas palavras o segundo trecho do livro Software Engineering at Google, Oreilly.(segundo post)
+
 O texto cita que a engenharia de software vai além de escrever código, abrangendo todos os processos e ferramentas que uma organização utiliza para construir e manter o código ao longo do tempo. O livro busca explorar práticas que possam tornar o código mais sustentável e a engenharia de software mais rigorosa, destacando a ideia de que a engenharia de software pode ser vista como "programação integrada ao longo do tempo".
 
 A obra foca em três princípios fundamentais que as organizações de software devem considerar ao projetar, arquitetar e escrever seu código:
@@ -21,7 +22,10 @@ A ideia central é que o código deve ser pensado para ser sustentável, capaz d
 
 
 
-Atividade 3. Disponibilidade (Availability) - Refere-se ao percentual de tempo em que o sistema deve estar funcionando e acessível.
+3 - Requisitos não funcionais
+ Listar 5 requisitos não funcionais e descrevê-los com suas palavras (ver slides 8, 9 e 10) 
+
+Disponibilidade (Availability) - Refere-se ao percentual de tempo em que o sistema deve estar funcionando e acessível.
 Exemplo: um sistema bancário que precisa operar 24/7 com 99,9% de disponibilidade.
 Quanto maior a disponibilidade, menor o tempo de indisponibilidade aceitável.
 
@@ -40,7 +44,10 @@ Um sistema confiável evita erros críticos e mantém seu funcionamento mesmo di
 
 
 
-Atividade 4 - Trade-offs (negociação entre requisitos não funcionais)
+4 - Trade-offs (negociação entre requisitos não funcionais)
+ Citar e descrever 3 cenários de trade-offs (ver slide 12, mas usar outros exemplos)
+
+Trade-offs (negociação entre requisitos não funcionais)
 
 Trade-offs acontecem quando melhorar um requisito prejudica outro, exigindo uma decisão de equilíbrio.
 
