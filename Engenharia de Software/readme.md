@@ -62,3 +62,20 @@ Para melhorar o desempenho, pode ser necessário investir em servidores mais pot
 Cenário 3 – Escalabilidade vs. Complexidade
 
 Criar uma arquitetura preparada para milhões de usuários torna o sistema mais escalável, mas também mais complexo de desenvolver e manter.
+
+
+
+Atividade 5. É possível testar tudo? 
+Não é possível testar tudo, pelo numero de vezes que será possível ser feito para o teste completo, o que podemos fazer é testar a funcionalidade no geral. 
+
+int blech (int j ){
+ j = j -1 // deveria ser j = j + 1
+ j = j/30000
+ return = j
+}
+
+Quantas entradas mostram o Erro ? 
+4 entradas 
+
+Quais são?
+29.999, 30.000, -29.999 e -30000
