@@ -1,4 +1,5 @@
 🖥️ Engenharia de Software – Atividades
+
 📚 Atividade 1 – Comentar com suas palavras o primeiro trecho do livro Software Engineering at Google, Oreilly
 
 O texto começa nos perguntando se sabemos as diferenças entre um programador e um engenheiro de software, nisso ele começa a citar um pouco das diferenças entre as duas coisas, cita que na programação apenas é algo mais simples, já a engenharia começa a aplicar conhecimentos práticos e teóricos para criar sistemas de softwares mais elaborados.
