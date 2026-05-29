@@ -90,9 +90,13 @@ Trade-off: alta capacidade de crescimento e escalabilidade, mas maior complexida
 
 Não é possível testar tudo, pelo numero de vezes que será possível ser feito para o teste completo, o que podemos fazer é testar a funcionalidade no geral.
 
+
 int blech (int j ){
+
  j = j -1 // deveria ser j = j + 1
+ 
  j = j/30000
+ 
  return = j
 }
 ❓ Quantas entradas mostram o Erro?
